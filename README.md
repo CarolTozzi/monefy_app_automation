@@ -2,8 +2,9 @@
 
 To run this project you will need:
 
-- Android Studio 3.5.3
-- Appium 1.15.1 (1.15.1.20191013.2)
+- Android Studio 3.5.3 - https://developer.android.com/studio
+- Appium 1.15.1 (1.15.1.20191013.2) - http://appium.io/downloads.html
+- IntelliJ IDEA - https://www.jetbrains.com/idea/download/#section=mac
 
 ## Android Studio
 On SDK Manager
